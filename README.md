@@ -28,16 +28,10 @@ Putting phishing analysis skills to the test by triaging and gathering informati
 #### 2. Analyse the suspicious email header (a snippet is provided here)
 <img width="406" alt="image" src="https://github.com/user-attachments/assets/fdf2f998-3357-4b30-9d14-c263c079d852">
 
-#### 3. Analyse the suspicious attachment in the email 
-<img width="473" alt="image" src="https://github.com/user-attachments/assets/fae98f73-15a3-48b2-8f2a-26455136cded">
-
-#### 4. Perform reverse DNS on the Originating IP address using (whois.domaintools.com)
-<img width="473" alt="image" src="https://github.com/user-attachments/assets/1d7b3bf0-14d8-490c-a422-a7a8cfc31164">
-
-#### 5. Using URL2PNG to see what is the heading text on this page
+#### 3. Using URL2PNG to see what is the heading text on this page
 <img width="338" alt="image" src="https://github.com/user-attachments/assets/c4ad1d00-fad6-43f2-a088-a76a680ce677">
 
-#### 6. Use VirusTotal to analyse the suspicious URLs in the email 
+#### 4. Use VirusTotal to analyse the suspicious URLs in the email 
 <img width="499" alt="image" src="https://github.com/user-attachments/assets/29d302e3-4b67-43c4-9468-03cf5a3c2d9e">
 <img width="502" alt="image" src="https://github.com/user-attachments/assets/5f45d4d5-723e-4d4b-954c-3043555bac9e">
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/45f3d919-06af-4f90-a96b-9e0a13da3950">
