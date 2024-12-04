@@ -31,8 +31,11 @@ Putting phishing analysis skills to the test by triaging and gathering informati
 <img width="510" alt="image" src="https://github.com/user-attachments/assets/c4ad1d00-fad6-43f2-a088-a76a680ce677">
 
 #### 4. Use VirusTotal to analyse the suspicious URLs in the email 
+</div>
 <img width="510" alt="image" src="https://github.com/user-attachments/assets/29d302e3-4b67-43c4-9468-03cf5a3c2d9e">
+<div>
 <img width="510" alt="image" src="https://github.com/user-attachments/assets/5f45d4d5-723e-4d4b-954c-3043555bac9e">
+</div>
 <img width="510" alt="image" src="https://github.com/user-attachments/assets/45f3d919-06af-4f90-a96b-9e0a13da3950">
 
 
