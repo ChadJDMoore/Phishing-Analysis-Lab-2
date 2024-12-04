@@ -38,7 +38,7 @@ Putting phishing analysis skills to the test by triaging and gathering informati
 
 
 ## Results
-<img width="373" alt="image" src="https://github.com/user-attachments/assets/bc313bf2-9b4a-4131-a6a5-432def729b4c">
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/fdce6f20-9ade-4739-8a98-d2828f195cd7">
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/b259055f-f504-47cd-87d8-caa6a37d79d8">
 
 
