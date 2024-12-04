@@ -8,14 +8,13 @@ Putting phishing analysis skills to the test by triaging and gathering informati
 
 - Identifying phishing techniques and tactics used in malicious emails.
 - Extracting key information, such as email headers, URLs, and attachment metadata.
-- Analyzing attachments for potential malicious content.
 - Recognizing indicators of compromise (IOCs) within email artifacts.
 - Enhancing investigative and analytical skills for email-based threats.
 
 ### Tools Used
 
 - VirtualBox for an isolated environment, using a Windows 10 virtual machine and snapshots for analysis
-- VirusTotal to scan the email attachment and URLs, identifying potential malware and phishing indicators
+- VirusTotal to scan the URLs, identifying potential malware and phishing indicators
 - URL2PNG, to view the heading text on the web page (of the suspicious URL)
 - Notepad for text viewing
   
