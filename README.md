@@ -16,9 +16,8 @@ Putting phishing analysis skills to the test by triaging and gathering informati
 
 - VirtualBox for an isolated environment, using a Windows 10 virtual machine and snapshots for analysis
 - VirusTotal to scan the email attachment and URLs, identifying potential malware and phishing indicators
-- whois.domaintools for reverse DNS on orginating IP Address of the email
 - URL2PNG, to view the heading text on the web page (of the suspicious URL)
-- Notepad for text editing and text viewing
+- Notepad for text viewing
   
 ## Steps
 #### 1. Analyse the suspicious email
